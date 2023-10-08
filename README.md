@@ -13,6 +13,6 @@ Wiring Diagram:
 
 ![image](https://user-images.githubusercontent.com/105662575/199055112-e1b2ffec-750e-4808-9037-006c94d1d75b.png)
 
-Results:
+Result:
 
-https://youtu.be/eH_B4Mw9iYM
+https://youtu.be/C8DjTwtjDNc?si=aVsieA1Or4RBGIX4
